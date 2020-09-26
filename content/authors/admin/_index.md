@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: PhD student in Aerospace Science and Technology, 2017
+  - course: PhD student in Aerospace Science and Technology
     institution: Beijing Institute of Technology
     year: 2017
-  - course: MEng in Aerospace Science and Technology, 2016
+  - course: MEng in Aerospace Science and Technology
     institution: Beijing Institute of Technology
     year: 2016
   - course: BSc in Weapon System and launching Engineering
@@ -56,12 +56,12 @@ social:
   link: https://github.com/jiaoly
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "longyin113@126.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
