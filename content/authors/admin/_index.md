@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-My name is Longyin Jiao, a a Ph.D student of PhD student in Aerospace Science and Technology in Beijing Institude of Technology. My research interests include Fluid Physics, Flow Control and Computational Fluid Dynamics. .If you are interesting in my work, please browse the CV
+My name is Longyin Jiao, a Ph.D student of Aerospace Science and Technology in Beijing Institude of Technology. My research interests include Fluid Physics, Flow Control and Computational Fluid Dynamics. If you are interesting in my work, please browse the CV
 
