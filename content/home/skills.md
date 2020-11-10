@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "space-shuttle"
   icon_pack = "fas"
-  name = "Aerospace Eng"
+  name = "Aerospace Engineering"
   description = "Aerospace system analysis; Flight dynamics,control and guidance; Aerodynamics and its applications to aerospace engineering."
   
 [[feature]]
@@ -30,13 +30,13 @@ subtitle = ""
   icon = "square-root-alt"
   icon_pack = "fas"
   name = "Computational Mathematics"
-  description = "10%"
+  description = "Study on Spectral Methods, Finite Differentces and Finite Volume Methods and the application on dynamics "
   
 [[feature]]
   icon = "tools"
   icon_pack = "fas"
   name = "Tools"
-  description = "10%"  
+  description = " "  
   
 [[feature]]
   icon = "fighter-jet"
@@ -48,7 +48,7 @@ subtitle = ""
   icon = "guitar"
   icon_pack = "fas"
   name = "Instrument Performance"
-  description = "Like to play the guitar and digital piano"
+  description = "Like to play the guitar and digital piano in spare time"
   
 
 # Uncomment to use emoji icons.
