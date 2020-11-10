@@ -39,7 +39,7 @@ subtitle = ""
   description = "10%"  
   
 [[feature]]
-  icon = "flighter-jet"
+  icon = "fighter-jet"
   icon_pack = "fas"
   name = "Aerodynamics"
   description = "10%"
