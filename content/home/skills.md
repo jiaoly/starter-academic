@@ -15,22 +15,41 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "space-shuttle"
+  icon_pack = "fas"
+  name = "Aerospace Eng"
+  description = "Aerospace system analysis; Flight dynamics,control and guidance; Aerodynamics and its applications to aerospace engineering."
   
 [[feature]]
-  icon = "chart-line"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Programming"
+  description = "Python "  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "square-root-alt"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Computational Mathematics"
   description = "10%"
+  
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Tools"
+  description = "10%"  
+  
+[[feature]]
+  icon = "flighter-jet"
+  icon_pack = "fas"
+  name = "Aerodynamics"
+  description = "10%"
+
+[[feature]]
+  icon = "guitar"
+  icon_pack = "fas"
+  name = "Instrument Performance"
+  description = "Like to play the guitar and digital piano"
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]
