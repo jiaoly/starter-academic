@@ -24,7 +24,7 @@ subtitle = ""
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Programming"
-  description = "Python "  
+  description = "Numerical and Scientific Calculation by Matlab and Python; Data Crawlering and Processing and Visulisation; Computational Parallelization on Cuda/MPI Platform"  
   
 [[feature]]
   icon = "square-root-alt"
@@ -36,19 +36,19 @@ subtitle = ""
   icon = "tools"
   icon_pack = "fas"
   name = "Tools"
-  description = " "  
+  description = "Shell script on Linux systems, Machine learning Implements on Nvidia Jetbot kits, OpenFOAM for CFD and Custom implementation"  
   
 [[feature]]
   icon = "fighter-jet"
   icon_pack = "fas"
   name = "Aerodynamics"
-  description = "10%"
+  description = "Flow Control, Boundary-Layer Flows, Flow Management Methods and Turbulence Theory; CFD and its application in engineering"
 
 [[feature]]
   icon = "guitar"
   icon_pack = "fas"
   name = "Instrument Performance"
-  description = "Like to play the guitar and digital piano in spare time"
+  description = "Like to play the guitar and digital piano in spare time; Also keen on arrangements"
   
 
 # Uncomment to use emoji icons.
