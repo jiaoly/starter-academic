@@ -18,7 +18,7 @@ organizations:
   url: "http://www.bit.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Fluid Physics, Flow Control and Computational Fluid Dynamics.
 
 interests:
 - Fluid Physics 
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Government-sponsored Joint-Supervision PhD student in Mechanical and Materials Engineering
+    institution: Western University, Ontario, Canada
+    year: 2019
   - course: PhD student in Aerospace Science and Technology
     institution: Beijing Institute of Technology
     year: 2017
