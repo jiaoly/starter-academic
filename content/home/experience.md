@@ -48,6 +48,6 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2012-09-01"
   date_end = "2016-06-31"
-  description = """"""
+  description = ""
 
 +++
